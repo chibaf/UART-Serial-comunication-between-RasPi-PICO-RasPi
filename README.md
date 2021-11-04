@@ -4,6 +4,9 @@ ref:
 
 Raspberry Pi Picoでシリアル通信する方法 – imo Lab. https://garchiving.com/how-to-use-uart-with-pico/
 
+
+
+
 RasPi: TXD0 and RXD0
 
 RasPi pico: UART0 TX and UART0 RX
